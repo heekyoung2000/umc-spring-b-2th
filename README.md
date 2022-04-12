@@ -2,8 +2,6 @@
 
 DGU UMC Spring B 스터디 
 
-DGU UMC Spring B 스터디 
-
 ✨스터디 규칙
 1. 스터디 시간: 화요일 오후 9시
 2. 폴더 구조
