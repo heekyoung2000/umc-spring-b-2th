@@ -20,3 +20,4 @@ DGU UMC Spring B 스터디
 1. 개인 branch에서 git add, commit 진행하고 github 저장소에 자신의 작업물을 push
 2. main branch에 작업물을 병합하기 위해 new pull request 선택 -> create pull request 선택
 3. 작업 내용 간단히 요약 및 작성
+
